@@ -2,9 +2,9 @@
 
 #Identifiers
 
-activityId- The ID of the activity
-activityType - The type of activity performed when the corresponding measurements were taken
-subjectId - The ID of the subject
+activityId- The ID of the activity.
+activityType - The type of activity performed when the corresponding measurements were taken.
+subjectId - The ID of the subject.
 
 # Code Working Flow
 
